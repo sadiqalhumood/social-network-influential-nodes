@@ -1,0 +1,68 @@
+
+============================================================
+ RUNNING EXPERIMENTS FOR SEED = 42
+============================================================
+
+[Seed 42] Starting IC (1000 runs per node)...
+[Seed 42] IC completed in 11.13 minutes.
+[Seed 42] Saved IC results → diffusion_results/influence_IC_seed42_1000runs.csv
+
+==============================
+ IC — Seed 42 — TOP 10
+==============================
+Node 1912: avg spread = 140.52
+Node 2543: avg spread = 129.34
+Node 2590: avg spread = 129.14
+Node 2347: avg spread = 128.78
+Node 2229: avg spread = 128.30
+Node 1985: avg spread = 127.53
+Node 2266: avg spread = 126.31
+Node 2218: avg spread = 126.14
+Node 2340: avg spread = 125.64
+Node 2233: avg spread = 125.50
+
+==============================
+ IC — Seed 42 — BOTTOM 10
+==============================
+Node 891: avg spread = 1.02
+Node 4015: avg spread = 1.02
+Node 892: avg spread = 1.02
+Node 3984: avg spread = 1.01
+Node 4010: avg spread = 1.01
+Node 875: avg spread = 1.01
+Node 4024: avg spread = 1.01
+Node 4035: avg spread = 1.01
+Node 4008: avg spread = 1.01
+Node 607: avg spread = 1.00
+
+[Seed 42] Starting SIR (1000 runs per node)...
+[Seed 42] SIR completed in 26.69 minutes.
+[Seed 42] Saved SIR results → diffusion_results/influence_SIR_seed42_1000runs.csv
+
+==============================
+ SIR — Seed 42 — TOP 10
+==============================
+Node 1912: avg spread = 140.52
+Node 2543: avg spread = 129.34
+Node 2590: avg spread = 129.14
+Node 2347: avg spread = 128.78
+Node 2229: avg spread = 128.30
+Node 1985: avg spread = 127.53
+Node 2266: avg spread = 126.31
+Node 2218: avg spread = 126.14
+Node 2340: avg spread = 125.64
+Node 2233: avg spread = 125.50
+
+==============================
+ SIR — Seed 42 — BOTTOM 10
+==============================
+Node 891: avg spread = 1.02
+Node 4015: avg spread = 1.02
+Node 892: avg spread = 1.02
+Node 3984: avg spread = 1.01
+Node 4010: avg spread = 1.01
+Node 875: avg spread = 1.01
+Node 4024: avg spread = 1.01
+Node 4035: avg spread = 1.01
+Node 4008: avg spread = 1.01
+Node 607: avg spread = 1.00
